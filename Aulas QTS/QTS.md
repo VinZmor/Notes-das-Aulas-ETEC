@@ -1,4 +1,4 @@
-# <mark style="background: #D2B3FFA6;">CMMI</mark> — Capability Maturity Model Integrated
+# <mark style="background: #D2B3FFA6;">CMMI</mark> — Capability Maturity Model Integrted
 * Feito pelo <font style="color: #6D72FF">SEI (Software Engineering Institute)</font>
 * O SEI focaliza a transição tecnológica, ou seja, o desenvolvimento e a adoção das melhores práticas de Engenharia de Software
 * Contém práticas (genéricas ou específicas)
